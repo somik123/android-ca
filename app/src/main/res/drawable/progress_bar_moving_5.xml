@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item android:drawable="@raw/z51" android:duration="80" />
+    <item android:drawable="@raw/z52" android:duration="80" />
+    <item android:drawable="@raw/z53" android:duration="80" />
+    <item android:drawable="@raw/z54" android:duration="80" />
+    <item android:drawable="@raw/z55" android:duration="80" />
+    <item android:drawable="@raw/z56" android:duration="80" />
+    <item android:drawable="@raw/z57" android:duration="80" />
+    <item android:drawable="@raw/z58" android:duration="80" />
+</animation-list>

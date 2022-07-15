@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item android:drawable="@raw/z11" android:duration="80" />
+    <item android:drawable="@raw/z12" android:duration="80" />
+    <item android:drawable="@raw/z13" android:duration="80" />
+    <item android:drawable="@raw/z14" android:duration="80" />
+    <item android:drawable="@raw/z15" android:duration="80" />
+    <item android:drawable="@raw/z16" android:duration="80" />
+    <item android:drawable="@raw/z17" android:duration="80" />
+    <item android:drawable="@raw/z18" android:duration="80" />
+</animation-list>

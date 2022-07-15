@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Team 1 CA</string>
+    <string name="image_alt_txt">Image</string>
+    <string name="downloading">Downloading</string>
+    <string name="of_20_images">of 20 Images</string>
+    <string name="all_20_images_downloaded">All 20 Images Downloaded</string>
+    <string name="starting_service">Starting service</string>
+    <string name="fetching_new_images">Fetching New Images…</string>
+    <string name="images_found_downloading">20  Images found. Downloading</string>
+    <string name="well_done_game_complete">Well done! You completed the game in </string>
+    <string name="seconds"> seconds</string>
+    <string name="https_stocksnap_io_search_cat">https://stocksnap.io/search/cat</string>
+    <string name="round_score">"This Round Score:  "</string>
+    <string name="best_score">"BEST SCORE:  "</string>
+    <string name="try_again">Try Again</string>
+    <string name="click_a_picture_to_start_game">Click a picture to Start Game</string>
+    <string name="fetch">Fetch</string>
+</resources>
