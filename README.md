@@ -3,7 +3,7 @@
 To-dos: 
 <br> Game logic: Ziyou
 <br> Game timer: TingTing
-<br> Image downloader: Somik? - Added DownloadServie with broadcast sender/receiver for MainActivity. All downloads done in background process and process will die if service is restarted.
+<br> Image downloader: Somik - Added DownloadServie with broadcast sender/receiver for MainActivity. All downloads done in background process and process will die if service is restarted.
 <br> Download bar: Li Yuan
 <br> Music? 
 <br> Sound for button? 
